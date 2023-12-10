@@ -16,5 +16,6 @@ public class MixedSum {
 
         return total;
     }
-}
+    }
+
 
